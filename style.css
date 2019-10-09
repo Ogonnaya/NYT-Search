@@ -1,0 +1,21 @@
+body {
+    margin: 0px 20px;
+}
+
+.jumbotron {
+    background-color: navy;
+}
+
+.display-4 {
+    text-align: center;
+    font-weight: 800;
+    color: white;
+}
+
+form {
+    margin: 20px;
+}
+
+.card {
+    margin-bottom: 40px;
+}
